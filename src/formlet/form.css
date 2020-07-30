@@ -1,0 +1,42 @@
+.formlet {
+  margin-bottom: 10px;
+}
+.formlet-array {
+  margin-top: 10px;
+}
+.formlet-array__children {
+  margin-bottom: 10px;
+}
+.formlet-array__children > .formlet-node {
+  margin-bottom: 15px;
+}
+
+.formlet-array-label {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.formlet-array-editor {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.formlet-node__children {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+/* .formlet-section__label {
+} */
+
+.formlet-section {
+  margin: 15px 0 15px 0;
+}
+
+.formlet-section__children {
+  display: flex;
+  flex-flow: column nowrap;
+  margin-left: 50px;
+}
