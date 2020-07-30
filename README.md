@@ -1,6 +1,6 @@
 # ts-formlet
 
-A future form building and validation library for TypeScript inspired by [this PureScript article](https://www.lumi.dev/blog/using-purescript-to-create-a-dsl-for-building-forms).
+A future form building and validation library for TypeScript inspired by [this PureScript article](https://www.lumi.dev/blog/using-purescript-to-create-a-dsl-for-building-forms). Used in production for a financial calculator website.
 
 See example usage in `src/App.tsx`. Code for the library is under `src/formlet`.
 
